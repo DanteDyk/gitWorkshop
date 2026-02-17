@@ -1,1 +1,1 @@
-console.log('Hello brave new world');
+console.log('Olle > * (Hello brave new world)');
