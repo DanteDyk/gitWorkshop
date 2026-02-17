@@ -1,3 +1,2 @@
 # gitWorkshop
-hejsan
-hejsan
+im out,. 
